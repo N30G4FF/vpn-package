@@ -1,0 +1,27 @@
+{
+  "name": "vpn-package",
+  "version": "1.0.0",
+  "description": "a free vpn package for servers",
+  "main": "vpn.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N30G4FF/vpn-package.git"
+  },
+  "keywords": [
+    "vpn",
+    "open-vpn",
+    "open"
+  ],
+  "author": "N30G4FF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N30G4FF/vpn-package/issues"
+  },
+  "homepage": "https://github.com/N30G4FF/vpn-package#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
